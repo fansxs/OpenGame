@@ -1,5 +1,10 @@
 ﻿# 🚗 3D 模拟驾驶游戏合集 (3D Driving Simulator)
 
+ 在线试玩地址：
+ https://glsite.com/opengame/cyberpunk_racer_3d.html
+ 
+ https://glsite.com/opengame/countryside_driving_3d.html
+
 这两款游戏均使用PythonStudio内置的智能体助手及deepseek-v4.1-flash模型开发。
 基于 **Three.js** 开发的两款 3D 网页模拟驾驶游戏，纯前端实现，无需安装，双击网页即可在浏览器中畅玩。支持键盘与手机触屏双操作。
 
